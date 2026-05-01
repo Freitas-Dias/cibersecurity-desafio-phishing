@@ -62,7 +62,7 @@ Esta simulação foi realizada com:
 
 ### 📸 Captura da simulação
 
-![Captura da simulação](./passwd.png)
+![Captura da simulação](./passwd_1.png)
 
 ### 🔍 Análise técnica
 
